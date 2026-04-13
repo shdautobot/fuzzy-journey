@@ -1,0 +1,6 @@
+python-telegram-bot
+openai-whisper
+torch
+transformers
+sentencepiece
+ffmpeg-python
